@@ -1,6 +1,6 @@
 token=NTM1NzYwNDA0NTgwNzk0MzY5.DyM1jQ.zmLkE44MlMEUj8lcBZXl52mNE5k
 owner=525749212198207508
 prefix=P
-game=Type Phelp
+game=Type PERU THE KING ♔.
 stayinchannel=true
 songinstatus=true
