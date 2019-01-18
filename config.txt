@@ -1,5 +1,5 @@
 token=NTM1NzYwNDA0NTgwNzk0MzY5.DyM1jQ.zmLkE44MlMEUj8lcBZXl52mNE5k
-owner=525749212198207508
+owner=472759776963592204
 prefix=P
 game=Type PERU THE KING ♔.
 stayinchannel=true
